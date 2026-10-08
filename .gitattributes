@@ -1,0 +1,5 @@
+# Treat Markdown files as Markdown
+*.md linguist-language=Markdown
+
+# Documentation files
+docs/*.md linguist-documentation=true
